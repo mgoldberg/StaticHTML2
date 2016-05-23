@@ -31,3 +31,12 @@ body{
 #stressed{
 	font-style: italic;
 }
+
+#left{
+	float: left;
+	width:85%;
+}
+
+#right{
+	float: right;
+}
