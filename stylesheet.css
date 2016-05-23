@@ -3,6 +3,10 @@ header{
 	color: red;
 	font-family: cursive;
 	display:inline-block;
+	background-color: #336699;
+	margin-bottom: 15px;
+	border-radius: 20px;
+	text-align: center;
 }
 
 p{
@@ -35,24 +39,35 @@ body{
 	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
 }
 
+
+
 #stressed{
 	font-style: italic;
 }
 
 #left1{
 	float: left;
+	clear: left;
 	width:85%;
 }
 
 #right1{
 	float: right;
+	clear: right;
 }
 
 #left2{
 	float: left;
+	clear: left;
 }
 
 #right2{
 	float: right;
 	width:85%;
+}
+
+#shortened1{
+	float: left;
+	clear: both;
+	width:82%;
 }
