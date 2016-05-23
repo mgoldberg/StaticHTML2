@@ -1,5 +1,102 @@
+
+	header{
+		font-size: 6em;
+	}
+
+	p{
+		font-size: 2em;
+	}
+
+	#title1{
+		font-size: 3em;
+	}
+
+	#left1{
+		width:100%;
+	}
+	#right1{
+		width:80%;
+		height: 200px;
+	}
+	#left2{
+		width:80%;
+		height: 200px;
+	}
+	#right2{
+		width:100%;
+	}
+	#shortened1{
+		width:100%;
+	}
+
+
+
+@media only screen and (min-width: 700px) {
+	header{
+		font-size: 5em;
+	}
+
+	p{
+		font-size: 1.5em;
+	}
+
+	#title1{
+		font-size: 2em;
+	}
+
+	#left1{
+		width:75%;
+	}
+	#right1{
+		width:20%;
+		height: 150px;
+	}
+	#left2{
+		height: 150px;
+		width:20%;
+	}
+	#right2{
+		width:75%;
+	}
+	#shortened1{
+		width:75%;
+	}
+
+}
+
+@media only screen and (min-width: 1000px) {
+	header{
+		font-size: 4em;
+	}
+
+	p{
+		font-size: 1em;
+	}
+
+	#title1{
+		font-size: 1.5em;
+	}
+
+	#left1{
+		width:85%;
+	}
+	#right1{
+		width:13%;
+	}
+	#left2{
+		width:13%;
+	}
+	#right2{
+		width:85%;
+	}
+	#shortened1{
+		width:83%;
+	}
+
+}
+
+
 header{
-	font-size: 4em;
 	color: red;
 	font-family: cursive;
 	display:inline-block;
@@ -10,7 +107,6 @@ header{
 }
 
 p{
-	font-size: 1em;
 	color: #0077b3;
 	display:inline-block;
 	margin-bottom: 1px;
@@ -18,7 +114,6 @@ p{
 }
 
 pre{
-	font-size: 1em;
 	color: #0077b3;
 	display:inline-block;
 	margin-bottom: 1px;
@@ -43,7 +138,6 @@ body{
 
 #title1{
 	color: #0077b3;
-	font-size: 1.5em;
 	font-weight: bold;
 	text-decoration: underline;
 	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
@@ -58,28 +152,23 @@ body{
 #left1{
 	float: left;
 	clear: left;
-	width:85%;
 }
 
 #right1{
 	float: right;
 	clear: right;
-	width:13%;
 }
 
 #left2{
 	float: left;
 	clear: left;
-	width:13%;
 }
 
 #right2{
 	float: right;
-	width:85%;
 }
 
 #shortened1{
 	float: left;
 	clear: both;
-	width:82%;
 }
