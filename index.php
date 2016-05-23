@@ -25,6 +25,7 @@
 			<p>
 				If you are still confused on the concept of a bird, fret not!  Here is a list of birds.  You can search for information about any of them if you like.  As you can see, while birds come in many shapes ans sizes, there are many similarities.
 			</p>
+			<p id = list>
 			<?php				
 				$birds = array("Birds:","Canary", "Blubird", "Bald Eagle", "Osprey", "Seagull", "California Condor", "Red Throated Hummingbird", "Emu", "Ostrich", "Cardinal", "Puffin", "Loon", "Golden Eagle", "Kiwi", "Robin");
 				$first = true;
@@ -44,6 +45,7 @@
 					}
 				}
 			?>
+			</p>
 		</div>
 
 		<img id = "left2" src="http://localhost/StaticHTML2/images/Feathers-1-1024x418.jpg" height = "150px" width = "190px"/>
