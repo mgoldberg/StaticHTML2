@@ -33,10 +33,20 @@
 		<div id = "shortened1">
 			<a id = "title1">Ecology</a>
 			<p>
-				Birds can be found on any continent on Earth.  This may be because birds can travel over vast distances very quickly through the power of flight.  No bird shows this better than the arctic tern.  Its migration brings it from the arctic circle all the way to Antactica.
+				Birds can be found on any continent on Earth.  This may be because birds can travel over vast distances very quickly through the power of flight.  No bird shows this better than the arctic tern.  Its migration brings it from the arctic circle all the way to Antactica (see picture to the right).  Another reason birds can be found in diverse locations is because they can take a variety of niches.  Birds can be everything from hunters to berry eaters.  The frigate bird gets much of its food from bothering other animals!
+			</p>
+			<p>
+				<!--<pre>	Birds</pre>-->
 			</p>
 		</div>
 		<img id = "right1" src="http://localhost/StaticHTML2/images/Picture4.png" height = "200px" width = "200px"/>
+
+		<div id = "right2">
+			<a id = "title1">List Birds</a>
+			<?php
+				echo "hi";
+			?>
+		</div>
 
 	</body>
 

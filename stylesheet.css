@@ -13,6 +13,16 @@ p{
 	font-size: 1em;
 	color: #0077b3;
 	display:inline-block;
+	margin-bottom: 1px;
+	margin-top: 2px;
+}
+
+pre{
+	font-size: 1em;
+	color: #0077b3;
+	display:inline-block;
+	margin-bottom: 1px;
+	margin-top: 2px;
 }
 
 div{
