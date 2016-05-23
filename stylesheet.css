@@ -64,11 +64,13 @@ body{
 #right1{
 	float: right;
 	clear: right;
+	width:13%;
 }
 
 #left2{
 	float: left;
 	clear: left;
+	width:13%;
 }
 
 #right2{

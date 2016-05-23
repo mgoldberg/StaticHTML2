@@ -21,6 +21,30 @@
 		</div>
 		<img id = "right1" src="http://localhost/StaticHTML2/images/House_sparrow04.jpg" height = "150px" width = "150px"/>
 
+		<div id = "left 1">
+			<p>
+				If you are still confused on the concept of a bird, fret not!  Here is a list of birds.  You can search for information about any of them if you like.  As you can see, while birds come in many shapes ans sizes, there are many similarities.
+			</p>
+			<?php				
+				$birds = array("Birds:","Canary", "Blubird", "Bald Eagle", "Osprey", "Seagull", "California Condor", "Red Throated Hummingbird", "Emu", "Ostrich", "Cardinal", "Puffin", "Loon", "Golden Eagle", "Kiwi", "Robin");
+				$first = true;
+ 				/*$sentence = array("I'm ", "learning ", "PHP!");*
+        
+        		foreach ($sentence as $word) {
+         			 echo $word;
+       			 }
+       			 	*/
+				foreach ($birds as $myBird) {
+					if(!$first){
+						echo ", ".$myBird;
+					}
+					else{
+						echo $myBird;
+						$first = false;
+					}
+				}
+			?>
+		</div>
 
 		<img id = "left2" src="http://localhost/StaticHTML2/images/Feathers-1-1024x418.jpg" height = "150px" width = "190px"/>
 		<div id = "right2">
@@ -41,12 +65,7 @@
 		</div>
 		<img id = "right1" src="http://localhost/StaticHTML2/images/Picture4.png" height = "200px" width = "200px"/>
 
-		<div id = "right2">
-			<a id = "title1">List Birds</a>
-			<?php
-				echo "hi";
-			?>
-		</div>
+
 
 	</body>
 
