@@ -27,14 +27,10 @@
 			</p>
 			<p id = list>
 			<?php				
-				$birds = array("Birds:","Canary", "Blubird", "Bald Eagle", "Osprey", "Seagull", "California Condor", "Red Throated Hummingbird", "Emu", "Ostrich", "Cardinal", "Puffin", "Loon", "Golden Eagle", "Kiwi", "Robin");
+				$birds = array("Canary", "Blubird", "Bald Eagle", "Osprey", "Seagull", "California Condor", "Red Throated Hummingbird", "Emu", "Ostrich", "Cardinal", "Puffin", "Loon", "Golden Eagle", "Kiwi", "Robin");
+				
 				$first = true;
- 				/*$sentence = array("I'm ", "learning ", "PHP!");*
-        
-        		foreach ($sentence as $word) {
-         			 echo $word;
-       			 }
-       			 	*/
+ 				
 				foreach ($birds as $myBird) {
 					if(!$first){
 						echo ", ".$myBird;
