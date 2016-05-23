@@ -25,4 +25,9 @@ body{
 	font-size: 1.5em;
 	font-weight: bold;
 	text-decoration: underline;
+	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+}
+
+#stressed{
+	font-style: italic;
 }
