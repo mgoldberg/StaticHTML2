@@ -28,6 +28,9 @@
 	#shortened1{
 		width:100%;
 	}
+	#center{
+		width:100%;
+	}
 
 
 
@@ -61,6 +64,9 @@
 	#shortened1{
 		width:75%;
 	}
+	#center{
+		width:60%;
+	}
 
 }
 
@@ -92,6 +98,9 @@
 	#shortened1{
 		width:83%;
 	}
+	#center{
+		width:75%;
+	}
 
 }
 
@@ -103,7 +112,6 @@ header{
 	background-color: #336699;
 	margin-bottom: 15px;
 	border-radius: 20px;
-	text-align: center;
 }
 
 p{
@@ -156,12 +164,12 @@ body{
 
 #right1{
 	float: right;
-	clear: right;
+	//clear: right;
 }
 
 #left2{
 	float: left;
-	clear: left;
+	//clear: left;
 }
 
 #right2{
@@ -175,4 +183,9 @@ body{
 
 #list{
 	color: #264d73;
+}
+
+#center{
+	clear: left;
+	//clear: right;
 }
