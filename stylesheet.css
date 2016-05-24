@@ -190,26 +190,31 @@ body{
 
 #left1{
 	float: left;
+	display:inline-block;
 	clear: left;
 }
 
 #right1{
 	float: right;
+	display:inline-block;
 	//clear: right;
 }
 
 #left2{
 	float: left;
+	display:inline-block;
 	//clear: left;
 }
 
 #right2{
 	float: right;
+	display:inline-block;
 }
 
 #left3{
 	float: left;
 	display:inline-block;
+	clear: left;
 }
 
 #right3{
@@ -219,6 +224,7 @@ body{
 
 #shortened1{
 	float: left;
+	display:inline-block;
 	clear: both;
 }
 
@@ -228,8 +234,9 @@ body{
 
 #center{
 	//clear: both;
+	float: left;
 	margin-left: 5px;
-	margin-right: 5px;
+	//margin-right: 5px;
 	display:inline-block;
 	//text-align: center;
 	//clear: right;

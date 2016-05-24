@@ -55,7 +55,7 @@
 		<div id = "shortened1">
 			<a id = "title1">Ecology</a>
 			<p>
-				Birds can be found on any continent on Earth.  This may be because birds can travel over vast distances very quickly through the power of flight.  No bird shows this better than the arctic tern.  Its migration brings it from the arctic circle all the way to Antactica (see picture to the right).  Another reason birds can be found in diverse locations is because they can take a variety of niches.  Birds can be everything from hunters to berry eaters.  The frigate bird gets much of its food from bothering other animals!
+				Birds can be found on any continent on Earth.  This may be because birds can travel over vast distances very quickly through the power of flight.  No bird shows this better than the arctic tern.  Its migration brings it from the arctic circle all the way to Antactica (see picture to the right).  Another reason birds can be found in diverse locations is because they can take a variety of niches.  Birds can be everything from hunters to berry eaters.  The frigate bird gets much of its food from bothering other animals!  Many bird species will form flocks.  Different bird species will do this for different reasons.  For instance, the canadian goose stays in a flock for aerodynamics.  They will fly in a v shape, and the geese flying in the back will have less air resistance.  The geese will then, after a certain period of tiime, will take turns.
 			</p>
 			<p>
 				<!--<pre>	Birds</pre>-->
@@ -67,10 +67,12 @@
 		<div id = "center">
 			<a id = "title1">Evolution</a>
 			<p>
-				Modern scientists believe that birds are direct ansestors of dinosausrs.  This is founded on a lot of evidence.  Many bones in dinosaurs closely reseble the bone structure of modern day birds.  We have also found fossilized dinosaur feathers.  Arceologists have even found a link between the two call archaeopteryx (see left)!  ---------Modern scientists believe that birds are direct ansestors of dinosausrs.  This is founded on a lot of evidence.  Many bones in dinosaurs closely reseble the bone structure of modern day birds.  We have also found fossilized dinosaur feathers.  Arceologists have even found a link between the two call archaeopteryx (see left)! Modern scientists believe that birds are direct ansestors of dinosausrs.  This is founded on a lot of evidence.  Many bones in dinosaurs closely reseble the bone structure of modern day birds.  We have also found fossilized dinosaur feathers.  Arceologists have even found a link between the two call archaeopteryx (see left)!
+				Modern scientists believe that birds are direct ansestors of dinosausrs.  This is founded on a lot of evidence.  Many bones in dinosaurs closely reseble the bone structure of modern day birds.  We have also found fossilized dinosaur feathers.  Arceologists have even found a link between the two call archaeopteryx (see left)!
 			</p>
 		</div>
 		<img id = "right3" src="http://localhost/StaticHTML2/images/dinosaur-bird-family-tree.jpg" height = "200px" width = "200px"/>
+
+
 
 	</body>
 
