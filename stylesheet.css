@@ -10,7 +10,9 @@
 	footer{
 		font-size: 2em;
 	}
-
+	li{
+		font-size: 2em;
+	}
 	#title1{
 		font-size: 3em;
 	}
@@ -62,7 +64,9 @@
 	footer{
 		font-size: 1.5em;
 	}
-
+	li{
+		font-size: 1.5em;
+	}
 	#title1{
 		font-size: 2em;
 	}
@@ -110,7 +114,9 @@
 	p{
 		font-size: 1em;
 	}
-
+	li{
+		font-size: 1em;
+	}
 	footer{
 		font-size: 1em;
 	}
@@ -214,7 +220,7 @@ body{
 
 #right1{
 	float: right;
-	clear: right;
+	/*clear: right;*/
 }
 
 #left2{
