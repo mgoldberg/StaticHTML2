@@ -79,12 +79,12 @@
 		<div id = right2>
 			<a id = "title1">Birds in Human Culture</a>
 			<p>
-				One of the largest impact birds have had on humans is as a food sourse.  Humans really like chicken. I mean <text id = "stressed">really</text> lke chicken.  There are currently <text id = "stressed">50 billion</text> chickens in the world today.  That's seven times the number of humans in the world.  However, live birds have made there way into human culture.  For example, in the middle ages, being able to go hunting with their falcon was a large status symbol.
+				One of the largest impact birds have had on humans is as a food sourse.  Humans really like chicken. I mean <text id = "stressed">really</text> lke chicken.  There are currently <text id = "stressed">50 billion</text> chickens in the world today.  That's seven times the number of humans in the world.  However, live birds have made there way into human culture.  For example, in the middle ages, being able to go hunting with their falcon was a large status symbol.  A famous mythical bird is the pheonix.  It is a fire bird that, when it dies, it burns up and is born from the ashes.  Birds have also been a symbol of freedom, as the ability to fly seems like it would allow for us to be carefree.  For some reason, birds also show up in a number of cartoons.  There is daffy duck, roadrunner, donald duck, woody woodepecker, foghorn leghorn, tweetybird, and more.
 			</p>
 		</div>
 
 		<footer>
-			<div>
+			<div id = "footer">
 				Go here for more information about birds
 			<div id = "links">
 				<a href = "http://www.audubon.org/">Audobon Home Page</a>
