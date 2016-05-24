@@ -83,6 +83,19 @@
 			</p>
 		</div>
 
+		<div id = "left1">
+			<a id = "title1">Fun Facts</a>
+			<p>
+				<ol>
+					<li>The fastest living thing is a bird.  The peregrine falcon has been clocked at going 240mph!</li>
+					<li>While owls have good night vision and can see far away, they have trouble looking at things up close.  That is because their eyes are like binoculars and don't have a wide range of vision.</li>
+					<!--<li></li>-->
+				</ol>
+			</p>
+		
+		</div>
+		<img id = "right1" src="http://localhost/StaticHTML2/images/Peregrine_Falcon_w02-44-013_l.jpg" height = "150px" width = "150px"/>
+
 		<footer>
 			<div id = "footer">
 				Go here for more information about birds

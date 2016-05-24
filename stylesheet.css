@@ -269,6 +269,10 @@ a:hover{
 	border: none;
 }
 
+li{
+	color: #0077b3;
+}
+
 #footer{
 	background-color: #a4c1c1;
 }
