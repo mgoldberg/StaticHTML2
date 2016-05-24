@@ -69,7 +69,7 @@
 		<div id = "center">
 			<a id = "title1">Evolution</a>
 			<p>
-				Modern scientists believe that birds are direct ansestors of dinosausrs.  This is founded on a lot of evidence.  Many bones in dinosaurs closely reseble the bone structure of modern day birds.  We have also found fossilized dinosaur feathers.  Arceologists have even found a link between the two call archaeopteryx (see left)!  Many scientists even belive that birds are more closely related to T-Rex than T-Rex was to Triceretops!  Birds <text id = "stressed">are</text> flying dinosaurs!  Since birds can live in so many diverse niches, there are many different bird species.  In fact, there are almost 10,000 know species of birds! 
+				Modern scientists believe that birds are direct ansestors of dinosausrs.  This is founded on a lot of evidence.  Many bones in dinosaurs closely reseble the bone structure of modern day birds.  We have also found fossilized dinosaur feathers.  It is not entirely clear why feathers first evolved. It is hypothesized that it was to keep warm and attact mates.  Arceologists have even found a link between the dinosaurs and birds called archaeopteryx (see left)!  Many scientists even belive that birds are more closely related to T-Rex than T-Rex was to Triceretops!  Birds <text id = "stressed">are</text> flying dinosaurs!  Since birds can live in so many diverse niches, there are many different bird species.  In fact, there are almost 10,000 know species of birds! 
 			</p>
 		</div>
 		<img id = "left3" src="http://localhost/StaticHTML2/images/imgres.jpg" height = "200px" width = "200px"/>
@@ -89,7 +89,7 @@
 				<ol>
 					<li>The fastest living thing is a bird.  The peregrine falcon has been clocked at going 240mph!</li>
 					<li>While owls have good night vision and can see far away, they have trouble looking at things up close.  That is because their eyes are like binoculars and don't have a wide range of vision.</li>
-					<!--<li></li>-->
+					<li>The largest bird ever were the elephant birds.  They weighed 500lb and were almost 10ft tall.  The largest bird alive today is the ostrich, which is 6 feet tall.</li>
 				</ol>
 			</p>
 		
