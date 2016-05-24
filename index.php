@@ -100,7 +100,7 @@
 			<div id = "footer">
 				Go here for more information about birds
 			<div id = "links">
-				<a href = "http://www.audubon.org/">Audobon Home Page</a>
+				<a href = "http://www.audubon.org/">Audubon Home Page</a>
 				|
 				<a href = "https://en.wikipedia.org/wiki/Bird#">Wikipedia Page on Birds</a>
 				|
