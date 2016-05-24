@@ -20,22 +20,22 @@
 	}
 	#right1{
 		width:70%;
-		height: 200px;
+		height: 400px;
 	}
 	#left2{
 		width:70%;
-		height: 200px;
+		height: 400px;
 	}
 	#right2{
 		width:100%;
 	}
 	#right3{
 		width:70%;
-		height: 200px;
+		height: 400px;
 	}
 	#left3{
 		width:70%;
-		height: 200px;
+		height: 400px;
 	}
 	#shortened1{
 		width:100%;
@@ -204,7 +204,7 @@ body{
 
 #right1{
 	float: right;
-	//clear: right;
+	clear: right;
 }
 
 #left2{

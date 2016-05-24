@@ -87,7 +87,7 @@
 			<a id = "title1">Fun Facts</a>
 			<p>
 				<ol>
-					<li>The fastest living thing is a bird.  The peregrine falcon has been clocked at going 240mph!</li>
+					<li>The fastest living thing is a bird.  The peregrine falcon (showed to the right) has been clocked at going 240mph!</li>
 					<li>While owls have good night vision and can see far away, they have trouble looking at things up close.  That is because their eyes are like binoculars and don't have a wide range of vision.</li>
 					<li>The largest bird ever were the elephant birds.  They weighed 500lb and were almost 10ft tall.  The largest bird alive today is the ostrich, which is 6 feet tall.</li>
 				</ol>
