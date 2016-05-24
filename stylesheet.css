@@ -7,6 +7,10 @@
 		font-size: 2em;
 	}
 
+	footer{
+		font-size: 2em;
+	}
+
 	#title1{
 		font-size: 3em;
 	}
@@ -48,6 +52,10 @@
 	}
 
 	p{
+		font-size: 1.5em;
+	}
+
+	footer{
 		font-size: 1.5em;
 	}
 
@@ -95,6 +103,10 @@
 		font-size: 1em;
 	}
 
+	footer{
+		font-size: 1em;
+	}
+
 	#title1{
 		font-size: 1.5em;
 	}
@@ -130,7 +142,6 @@
 header{
 	color: red;
 	font-family: cursive;
-	display:inline-block;
 	background-color: #336699;
 	margin-bottom: 15px;
 	border-radius: 20px;

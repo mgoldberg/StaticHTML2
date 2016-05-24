@@ -85,7 +85,7 @@
 
 		<footer>
 			<div>
-			Go here for more information about birds
+				Go here for more information about birds
 			<div id = "links">
 				<a href = "http://www.audubon.org/">Audobon Home Page</a>
 				|
