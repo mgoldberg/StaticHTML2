@@ -134,6 +134,7 @@ header{
 	background-color: #336699;
 	margin-bottom: 15px;
 	border-radius: 20px;
+	border: 2px solid #006600;
 }
 
 p{
@@ -153,17 +154,25 @@ pre{
 div{
 	background-color: #ff6666;
 	border-radius: 5px;
+	//border: 1px solid black;
 	//padding: 10px;
 	margin-bottom: 10px;
 }
 
 img{
 	margin-bottom: 10px;
+	border: 1px solid black;
 	border-radius: 3px;
 }
 
 body{
 	background-color: #009900;
+}
+
+#no-outline{
+	border: 0px  solid #ff6666;
+	float: left;
+	clear: left;
 }
 
 #title1{
