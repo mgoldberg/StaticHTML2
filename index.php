@@ -19,7 +19,7 @@
 				&nbsp&nbsp&nbsp&nbsp&nbsp&nbspThere is an extrodinarily high chance that you have seen an animal under the category of bird before.  I just saw one fly right past my window.  That's right I said <text id = "stressed"> fly</text>!  One of the coolest things about birds is that most of them can sustain self powered flight.  Another destinctive trait that all birds have are feathers.  We'll go into more detail later, but for now just know that feathers are similar to long hairs that branch off into other hairs.  All birds also have beaks.  They com in many shapes and sizes, but they are generally pointy yellow triangles at the front of a birds head.  This is the location of the bird's mouth and nose.  Do you remeber seeing a bird yet?  Well hold onto your ostreches because there is a lot more to our feathery friends that meet the eye.
 			</p>
 			<p>
-			     &nbsp&nbsp&nbsp&nbsp&nbsp&nbspIf you are still confused on the concept of a bird, fret not!  Here is a list of birds.  You can search for information about any of them if you like.  As you can see, while birds come in many shapes ans sizes, there are many similarities.
+			    &nbsp&nbsp&nbsp&nbsp&nbsp&nbspIf you are still confused on the concept of a bird, fret not!  Here is a list of birds.  You can search for information about any of them if you like.  As you can see, while birds come in many shapes ans sizes, there are many similarities.
 			</p>
 			<p id = list>
 			<?php				
@@ -83,6 +83,10 @@
 					<li>The fastest living thing is a bird.  The peregrine falcon (showed to the right) has been clocked at going 240mph!</li>
 					<li>While owls have good night vision and can see far away, they have trouble looking at things up close.  That is because their eyes are like binoculars and don't have a wide range of vision.</li>
 					<li>The largest bird ever were the elephant birds.  They weighed 500lb and were almost 10ft tall.  The largest bird alive today is the ostrich, which is 6 feet tall.</li>
+					<li>Some hummingbird eggs are the size of a pea!  On the other side of a spectrum, an ostrich egg is the size of a cantelope.  Bonus fun fact: it takes 90 minutes to hard boil an ostrich egg.</li>
+					<li>Owls can turn their necks almost 360 degrees.</li>
+					<li>Kiwi birds are blind.</li>
+					<li>Some birds are actually fairly smart.  Crows have been know to use tools.</li>
 				</ol>
 			</p>
 		
