@@ -18,10 +18,10 @@
 			<p>
 				There is an extrodinarily high chance that you have seen an animal under the category of bird before.  I just saw one fly right past my window.  That's right I said <text id = "stressed"> fly</text>!  One of the coolest things about birds is that most of them can sustain self powered flight.  Another destinctive trait that all birds have are feathers.  We'll go into more detail later, but for now just know that feathers are similar to long hairs that branch off into other hairs.  All birds also have beaks.  They com in many shapes and sizes, but they are generally pointy yellow triangles at the front of a birds head.  This is the location of the bird's mouth and nose.  Do you remeber seeing a bird yet?  Well hold onto your ostreches because there is a lot more to our feathery friends that meet the eye.
 			</p>
-		</div>
-		<img id = "right1" src="http://localhost/StaticHTML2/images/House_sparrow04.jpg" height = "150px" width = "150px"/>
+		<!--</div>-->
+		
 
-		<div id = "left 1">
+		<!--<div id = "left 1">-->
 			<p>
 				If you are still confused on the concept of a bird, fret not!  Here is a list of birds.  You can search for information about any of them if you like.  As you can see, while birds come in many shapes ans sizes, there are many similarities.
 			</p>
@@ -42,7 +42,9 @@
 				}
 			?>
 			</p>
+
 		</div>
+		<img id = "right1" src="http://localhost/StaticHTML2/images/House_sparrow04.jpg" height = "150px" width = "150px"/>
 
 		<img id = "left2" src="http://localhost/StaticHTML2/images/Feathers-1-1024x418.jpg" height = "150px" width = "190px"/>
 		<div id = "right2">
@@ -63,13 +65,14 @@
 		</div>
 		<img id = "right1" src="http://localhost/StaticHTML2/images/Picture4.png" height = "200px" width = "200px"/>
 
-		<img id = "left3" src="http://localhost/StaticHTML2/images/imgres.jpg" height = "200px" width = "200px"/>
+		
 		<div id = "center">
 			<a id = "title1">Evolution</a>
 			<p>
 				Modern scientists believe that birds are direct ansestors of dinosausrs.  This is founded on a lot of evidence.  Many bones in dinosaurs closely reseble the bone structure of modern day birds.  We have also found fossilized dinosaur feathers.  Arceologists have even found a link between the two call archaeopteryx (see left)!
 			</p>
 		</div>
+		<img id = "left3" src="http://localhost/StaticHTML2/images/imgres.jpg" height = "200px" width = "200px"/>
 		<img id = "right3" src="http://localhost/StaticHTML2/images/dinosaur-bird-family-tree.jpg" height = "200px" width = "200px"/>
 
 
