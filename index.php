@@ -75,7 +75,12 @@
 		<img id = "left3" src="http://localhost/StaticHTML2/images/imgres.jpg" height = "200px" width = "200px"/>
 		<img id = "right3" src="http://localhost/StaticHTML2/images/dinosaur-bird-family-tree.jpg" height = "200px" width = "200px"/>
 
-
+		<div id = right2>
+			<a id = "title1">Birds in Human Culture</a>
+			<p>
+				words
+			</p>
+		</div>
 
 	</body>
 
