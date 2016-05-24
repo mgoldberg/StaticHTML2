@@ -12,7 +12,6 @@
 		</header>
 
 
-
 		<div id = "left1">
 			<a id = "title1">~Bird Basics~</a>
 			<p>
