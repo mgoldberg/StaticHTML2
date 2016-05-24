@@ -264,10 +264,12 @@ li{
 }
 
 #footer{
+	border-radius: 20px;
 	background-color: #a4c1c1;
 }
 
 footer{
+	border-radius: 50px;
 	background-color: #a4c1c1;
 	color: #264d73;
 	text-align: center;
