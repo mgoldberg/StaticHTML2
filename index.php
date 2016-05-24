@@ -75,12 +75,26 @@
 		<img id = "left3" src="http://localhost/StaticHTML2/images/imgres.jpg" height = "200px" width = "200px"/>
 		<img id = "right3" src="http://localhost/StaticHTML2/images/dinosaur-bird-family-tree.jpg" height = "200px" width = "200px"/>
 
+		<img id = "left2" src="http://localhost/StaticHTML2/images/220px-Falconry_Book_of_Frederick_II_1240s_detail_falconers.jpg" height = "150px" width = "190px"/>
 		<div id = right2>
 			<a id = "title1">Birds in Human Culture</a>
 			<p>
-				words
+				One of the largest impact birds have had on humans is as a food sourse.  Humans really like chicken. I mean <text id = "stressed">really</text> lke chicken.  There are currently <text id = "stressed">50 billion</text> chickens in the world today.  That's seven times the number of humans in the world.  However, live birds have made there way into human culture.  For example, in the middle ages, being able to go hunting with their falcon was a large status symbol.
 			</p>
 		</div>
+
+		<footer>
+			<div>
+			Go here for more information about birds
+			<div id = "links">
+				<a href = "http://www.audubon.org/">Audobon Home Page</a>
+				|
+				<a href = "https://en.wikipedia.org/wiki/Bird#">Wikipedia Page on Birds</a>
+				|
+				<a href = "http://launchdm.com/">LaunchDM</a>
+			</div>
+			</div>
+		</footer>
 
 	</body>
 
