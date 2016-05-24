@@ -25,6 +25,14 @@
 	#right2{
 		width:100%;
 	}
+	#right3{
+		width:80%;
+		height: 200px;
+	}
+	#left3{
+		width:80%;
+		height: 200px;
+	}
 	#shortened1{
 		width:100%;
 	}
@@ -61,11 +69,19 @@
 	#right2{
 		width:75%;
 	}
+	#right3{
+		width:20%;
+		height: 150px;
+	}
+	#left3{
+		width:20%;
+		height: 150px;
+	}
 	#shortened1{
 		width:75%;
 	}
 	#center{
-		width:60%;
+		width:78%;
 	}
 
 }
@@ -95,11 +111,17 @@
 	#right2{
 		width:85%;
 	}
+	#right3{
+		width:13%;
+	}
+	#left3{
+		width:13%;
+	}
 	#shortened1{
 		width:83%;
 	}
 	#center{
-		width:75%;
+		width:71%;
 	}
 
 }
@@ -176,6 +198,16 @@ body{
 	float: right;
 }
 
+#left3{
+	float: left;
+	display:inline-block;
+}
+
+#right3{
+	float: right;
+	display:inline-block;
+}
+
 #shortened1{
 	float: left;
 	clear: both;
@@ -186,6 +218,10 @@ body{
 }
 
 #center{
-	clear: left;
+	//clear: both;
+	margin-left: 5px;
+	margin-right: 5px;
+	display:inline-block;
+	//text-align: center;
 	//clear: right;
 }
