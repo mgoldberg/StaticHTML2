@@ -6,7 +6,7 @@
 	</head>
 
 
-	<body>
+	<body background="http://localhost/StaticHTML2/images/9560714-Green-leaves-background--Stock-Photo-leaf.jpg">
 		<header>
 			All About Birds
 		</header>
