@@ -92,6 +92,10 @@
 		</div>
 		<img id = "right1" src="http://localhost/StaticHTML2/images/Peregrine_Falcon_w02-44-013_l.jpg" height = "150px" width = "150px"/>
 
+		<!--<div id = "pic-list">
+			<a id = "title1">Bird Pictures</a>
+		</div>-->
+
 		<footer>
 			<div id = "footer">
 				Go here for more information about birds
