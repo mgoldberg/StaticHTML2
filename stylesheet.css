@@ -152,7 +152,8 @@ pre{
 }
 
 div{
-	background-color: #ff6666;
+	//background-color: #ff6666;
+	background-color: #ff9999;
 	border-radius: 5px;
 	//border: 1px solid black;
 	//padding: 10px;

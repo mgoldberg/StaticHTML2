@@ -69,7 +69,7 @@
 		<div id = "center">
 			<a id = "title1">Evolution</a>
 			<p>
-				Modern scientists believe that birds are direct ansestors of dinosausrs.  This is founded on a lot of evidence.  Many bones in dinosaurs closely reseble the bone structure of modern day birds.  We have also found fossilized dinosaur feathers.  Arceologists have even found a link between the two call archaeopteryx (see left)!
+				Modern scientists believe that birds are direct ansestors of dinosausrs.  This is founded on a lot of evidence.  Many bones in dinosaurs closely reseble the bone structure of modern day birds.  We have also found fossilized dinosaur feathers.  Arceologists have even found a link between the two call archaeopteryx (see left)!  Many scientists even belive that birds are more closely related to T-Rex than T-Rex was to Triceretops!  Birds <text id = "stressed">are</text> flying dinosaurs!
 			</p>
 		</div>
 		<img id = "left3" src="http://localhost/StaticHTML2/images/imgres.jpg" height = "200px" width = "200px"/>
