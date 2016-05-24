@@ -85,7 +85,6 @@
 					<li>The largest bird ever were the elephant birds.  They weighed 500lb and were almost 10ft tall.  The largest bird alive today is the ostrich, which is 6 feet tall.</li>
 					<li>Some hummingbird eggs are the size of a pea!  On the other side of a spectrum, an ostrich egg is the size of a cantelope.  Bonus fun fact: it takes 90 minutes to hard boil an ostrich egg.</li>
 					<li>Owls can turn their necks almost 360 degrees.</li>
-					<li>Kiwi birds are blind.</li>
 					<li>Some birds are actually fairly smart.  Crows have been know to use tools.</li>
 				</ol>
 			</p>
