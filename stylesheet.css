@@ -1,4 +1,8 @@
 
+	div{
+		padding: 0;
+	}
+
 	header{
 		font-size: 6em;
 	}
@@ -53,6 +57,11 @@
 
 
 @media only screen and (min-width: 700px) {
+	
+	div{
+		padding: 7px;
+	}
+
 	header{
 		font-size: 5em;
 	}
@@ -186,7 +195,6 @@ div{
 	border-radius: 5px;
 	margin-bottom: 10px;
 	border: 2px solid #006600;
-	padding: 5px;
 }
 
 img{
@@ -220,7 +228,7 @@ body{
 
 #right1{
 	float: right;
-	/*clear: right;*/
+	clear: right;
 }
 
 #left2{
@@ -256,9 +264,6 @@ body{
 	color: #264d73;
 }
 
-#pic-list{
-	clear: both;
-}
 
 #center{
 	margin-left: 5px;
