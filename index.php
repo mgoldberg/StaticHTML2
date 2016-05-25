@@ -5,6 +5,7 @@
 		<title>All About Birds</title>
 	</head>
 
+  	<embed src="http://localhost/StaticHTML2/sounds/rainforest_ambience-GlorySunz-1938133500.mp3" type="audio/mpeg" loop="true"/>
 
 	<body background="http://localhost/StaticHTML2/images/9560714-Green-leaves-background--Stock-Photo-leaf.jpg">
 		<header>
